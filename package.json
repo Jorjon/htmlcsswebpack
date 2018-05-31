@@ -3,7 +3,7 @@
   "description": "",
   "author": "",
   "version": "0.1.0",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "build": "webpack --config config/webpack.prod.js",
